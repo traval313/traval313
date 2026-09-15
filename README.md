@@ -114,46 +114,47 @@ A lightweight web app for finding occupancy-related HVAC inefficiencies in comme
 
 ## Technologies & Tools
 
-**Languages**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" alt="Swift" title="Swift" />
-</p>
-
-**Frameworks & Libraries**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask" title="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="45" alt="Xcode" title="Xcode" />
-</p>
-
-**Infrastructure, Data & Tools**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" alt="Firebase" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" title="GitHub" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
-  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
-</p>
-
-**AI & Data**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch" title="PyTorch" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages</strong>
+      <br /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" title="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" alt="Swift" title="Swift" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Frameworks & Libraries</strong>
+      <br /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" title="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" title="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask" title="Flask" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="45" alt="Xcode" title="Xcode" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Infrastructure, Data & Tools</strong>
+      <br /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" alt="Firebase" title="Firebase" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" title="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" title="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" title="GitHub" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
+      <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>AI & Data</strong>
+      <br /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy" title="NumPy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas" title="Pandas" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch" title="PyTorch" />
+    </td>
+  </tr>
+</table>
 
 ## GitHub Activity
 
