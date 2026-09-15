@@ -45,45 +45,72 @@ hobbies:
 
 ## Featured Projects
 
-### Climate Intelligence Platform
+### Tabla Repertoire
 
-Software for making climate or sustainability data easier to understand, explore, and act on.
+A minimalistic web app for cataloging and archiving Hindustani tabla compositions, deployed and used by musicians across the Bay Area.
 
-**Tech:** Python • FastAPI • PostgreSQL • React • Docker
+**Tech:** Next.js • TypeScript • Firebase/Firestore • Vercel
 
-- Built an interactive application for exploring climate-related data and insights.
-- Designed backend APIs for clean data access, filtering, and future model integration.
-- Created a frontend experience focused on clarity, comparison, and practical decision-making.
+- Built a searchable composition archive for tabla repertoire and traditional notation.
+- Designed a character-level beat-mapping system for precise rhythmic structure.
+- Deployed at [tabla-repertoire.vercel.app](https://tabla-repertoire.vercel.app).
 
-[Repository ->](https://github.com/traval313/YOUR_CLIMATE_PROJECT)
-
----
-
-### AI Knowledge Assistant
-
-An AI-powered assistant that helps users retrieve, summarize, and reason over domain-specific information.
-
-**Tech:** Python • LLMs • RAG • Vector Search • Evaluation
-
-- Built a retrieval-augmented generation workflow for grounded, context-aware answers.
-- Designed document ingestion and search logic for accurate source retrieval.
-- Evaluated response quality across relevance, faithfulness, and usability.
-
-[Repository ->](https://github.com/traval313/YOUR_AI_PROJECT)
+[Repository ->](https://github.com/traval313/tabla-repertoire)
 
 ---
 
-### Full-Stack Product
+### Climate Research Assistant
 
-A production-style web application with a polished user flow, persistent data, and responsive interface.
+A RAG application for analyzing climate, environmental, air quality, and scientific research papers.
 
-**Tech:** TypeScript • React • Node.js • PostgreSQL • GitHub Actions
+**Tech:** Python • LangChain • Google Gemini • ChromaDB • Streamlit
 
-- Implemented core product flows across frontend, backend, and database layers.
-- Added authentication, validation, and reusable UI components.
-- Practiced deployment-minded engineering with testing, automation, and maintainable structure.
+- Let users upload PDF papers and ask document-grounded questions.
+- Added supporting source passages for more transparent answers.
+- Generated structured research summaries from uploaded papers.
 
-[Repository ->](https://github.com/traval313/YOUR_FULL_STACK_PROJECT)
+[Repository ->](https://github.com/traval313/climate-rag-assistant)
+
+---
+
+### ClearTerms
+
+A Chrome extension MVP that uses AI to summarize Terms of Service and Privacy Policy pages in plain language.
+
+**Tech:** JavaScript • TypeScript • Chrome Extensions • Gemini API
+
+- Detected legal-document pages using URL, keyword, and page-content heuristics.
+- Extracted visible page text with user consent and summarized key clauses.
+- Scored privacy risk across six categories with confidence notes and clear errors.
+
+[Repository ->](https://github.com/traval313/clearterms-extension)
+
+## Currently Building
+
+### Mudra Vision
+
+A computer vision app for recognizing Bharatanatyam mudras from images and webcam input.
+
+**Tech:** Python • OpenCV • MediaPipe • YOLO • Deep Learning
+
+- Training and evaluating a baseline mudra classification model.
+- Exploring hand-landmark analysis for real-time gesture feedback.
+
+[Repository ->](https://github.com/traval313/mudra-vision)
+
+---
+
+### Building HVAC Analyzer
+
+A lightweight web app for finding occupancy-related HVAC inefficiencies in commercial buildings.
+
+**Tech:** Python • Streamlit • Data Analysis • Energy Modeling
+
+- Estimates energy and cost impact from operational inefficiencies.
+- Generates prioritized recommendations for facility-management decisions.
+- Built for the Trane Technologies software engineering micro-internship.
+
+[Repository ->](https://github.com/traval313/building-hvac-analyzer)
 
 ## Technologies & Tools
 
@@ -132,13 +159,8 @@ A production-style web application with a polished user flow, persistent data, a
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=traval313&show_icons=true&hide_border=true&theme=github_dark"
+    src="https://github-stats-extended.vercel.app/api?username=traval313&show_icons=true&hide_border=true&theme=github_dark"
     alt="Tithi's GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=traval313&layout=compact&hide_border=true&theme=github_dark"
-    alt="Tithi's top languages"
     height="165"
   />
 </p>
